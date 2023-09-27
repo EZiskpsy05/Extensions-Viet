@@ -20,7 +20,7 @@ import {
 
 import { parseSearch, parseViewMore, isLastPage } from "./Doctruyen3QParser"
 
-const DOMAIN = 'https://doctruyen3q.com/'
+const DOMAIN = 'https://doctruyen3qne.com/'
 const method = 'GET'
 
 export const Doctruyen3QInfo: SourceInfo = {
